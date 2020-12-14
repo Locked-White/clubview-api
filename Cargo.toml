@@ -1,0 +1,9 @@
+[package]
+name = "claris_improved_api"
+version = "0.1.0"
+authors = ["Fumitsuki-1921124 <s1921124@s.do-johodai.ac.jp>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
